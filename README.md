@@ -31,3 +31,7 @@ pip install -r requirements.txt
 mkdir Your_PDFs
 python PDFtoMarkdown.py
 ```
+
+## Author
+
+Developed by **Milad Mehrnia**.
