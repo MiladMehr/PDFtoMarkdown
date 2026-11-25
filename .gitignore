@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.env
+Your_PDFs/
+_md_parts_*/
+(GeminiMarkdown)*.md
+*.pdf
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
