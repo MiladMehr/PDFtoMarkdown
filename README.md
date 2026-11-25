@@ -34,4 +34,5 @@ python PDFtoMarkdown.py
 
 ## Author
 
-Developed by **Milad Mehrnia**.
+**Milad Mehrnia** — M.Sc. Student in Mechatronics, University of Tehran  
+GitHub: \MiladMehr\ | LinkedIn: \milad-mehrnia\n
