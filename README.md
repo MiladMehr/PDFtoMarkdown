@@ -35,4 +35,4 @@ python PDFtoMarkdown.py
 ## Author
 
 **Milad Mehrnia** — M.Sc. Student in Mechatronics, University of Tehran  
-GitHub: \MiladMehr\ | LinkedIn: \milad-mehrnia\n
+GitHub: MiladMehr | LinkedIn: milad-mehrnia
